@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin — LeanScale Intake</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="admin-app">
+    <div class="password-gate" id="gate">
+      <h2>LeanScale Intake — Admin</h2>
+      <div style="position:relative;width:100%;max-width:300px;">
+        <input type="text" id="gate-pw" autocomplete="off" placeholder="Enter admin password" style="width:100%;padding-right:2.5rem;">
+      </div>
+      <div id="gate-error" style="color:var(--accent-pink);font-size:0.85rem;min-height:1.25rem;"></div>
+      <button class="btn btn-primary" id="gate-btn" type="button">Enter</button>
+    </div>
+  </div>
+
+  <!-- Gate logic — fully inline, no external dependencies -->
+  <script>
+    (function() {
+      var PASS = 'leanscale2026';
+      var btn = document.getElementById('gate-btn');
+      var pw = document.getElementById('gate-pw');
+      var err = document.getElementById('gate-error');
+
+      function tryLogin() {
+        if (pw.value === PASS) {
+          err.textContent = '';
+          // Load the admin panel scripts
+          var s1 = document.createElement('script');
+          s1.src = 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2';
+          s1.onload = function() {
+            var s2 = document.createElement('script');
+            s2.src = 'js/questions.js?v=3';
+            s2.onload = function() {
+              var s3 = document.createElement('script');
+              s3.src = 'js/admin.js?v=3';
+              document.body.appendChild(s3);
+            };
+            document.body.appendChild(s2);
+          };
+          document.body.appendChild(s1);
+        } else {
+          err.textContent = 'Incorrect password — try again';
+          pw.focus();
+          pw.select();
+        }
+      }
+
+      btn.addEventListener('click', tryLogin);
+      pw.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') tryLogin();
+      });
+    })();
+  </script>
+
+  <template id="tpl-admin">
+    <header class="header">
+      <div class="header-inner">
+        <span class="leanscale-logo">LeanScale — Intake Admin</span>
+        <button class="btn" id="btn-new-client">+ New Client</button>
+      </div>
+    </header>
+
+    <div class="admin-container">
+      <div class="admin-header">
+        <h1 class="section-title">Client Intake Forms</h1>
+      </div>
+
+      <table class="client-table" id="client-table">
+        <thead>
+          <tr>
+            <th>Client</th>
+            <th>Created</th>
+            <th>Progress</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody id="client-tbody"></tbody>
+      </table>
+    </div>
+
+    <!-- New Client Modal -->
+    <div class="modal-overlay" id="modal-new" style="display:none">
+      <div class="modal">
+        <h2>Create New Client Intake</h2>
+        <div class="field">
+          <label class="field-label">Client Name <span class="required">*</span></label>
+          <input type="text" id="new-client-name" placeholder="e.g., Scandit">
+        </div>
+        <div class="field">
+          <label class="field-label">Client Logo URL</label>
+          <input type="url" id="new-client-logo" placeholder="https://...">
+        </div>
+        <div class="field">
+          <label class="field-label">Intake Sections</label>
+          <div id="section-checkboxes"></div>
+        </div>
+        <div class="modal-actions">
+          <button class="btn" id="modal-cancel">Cancel</button>
+          <button class="btn btn-primary" id="modal-create">Create</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Response Viewer -->
+    <div id="response-viewer"></div>
+  </template>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pre-Kickoff Intake — LeanScale</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="app">
+    <div class="loading">Loading intake form…</div>
+  </div>
+
+  <template id="tpl-error">
+    <div class="error-page">
+      <h1>Invalid or missing link</h1>
+      <p>Please use the link provided by your LeanScale team to access this form.</p>
+    </div>
+  </template>
+
+  <template id="tpl-form">
+    <header class="header">
+      <div class="header-inner">
+        <div class="header-logos">
+          <span class="leanscale-logo" id="client-name" style="display:none"></span>
+          <div class="logo-divider" id="logo-divider" style="display:none"></div>
+          <span class="leanscale-logo">LeanScale</span>
+        </div>
+        <div class="save-status" id="save-status">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+          <span>Saved</span>
+        </div>
+      </div>
+    </header>
+
+    <nav class="tab-nav">
+      <div class="tab-nav-inner" id="tab-nav"></div>
+    </nav>
+
+    <main class="main" id="main-content"></main>
+
+    <footer class="footer">
+      <div class="footer-nav">
+        <button class="btn" id="btn-prev" style="display:none">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+          Previous
+        </button>
+        <button class="btn btn-primary" id="btn-next">
+          Next
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+        </button>
+      </div>
+      <div class="progress-bar-container">
+        <div class="progress-bar-label">
+          <span>Overall Progress</span>
+          <span id="overall-progress-pct">0%</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-bar-fill" id="overall-progress-fill"></div>
+        </div>
+      </div>
+    </footer>
+  </template>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="js/questions.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
