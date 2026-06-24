@@ -1,0 +1,4 @@
+=== By Account Rating ===
+Rating                 Won  Lost  Total  WinRt         WonVal
+(none)                4097  4228   8325  49.2% $  65,825,959
+Top                    151   206    357  42.3% $  21,475,606

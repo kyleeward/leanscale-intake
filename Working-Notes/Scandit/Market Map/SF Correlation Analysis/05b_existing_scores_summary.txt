@@ -1,0 +1,27 @@
+=== Qualified Signals Engagement Score (q_Score__c) ===
+Population: 8682 of 8682 (100.0% populated)
+Range: min=0.0 max=88.0 mean=0.8
+Bucket            Won  Lost  Total  WinRt
+<= 10            4194  4381   8575  48.9%
+<= 25              25    30     55  45.5%
+<= 50              23    17     40  57.5%
+<= 100              6     6     12  50.0%
+
+=== Qualified Signals Research Score (Signals_Research_Score__c) ===
+Population: 8682 of 8682 (100.0% populated)
+Range: min=0.0 max=100.0 mean=17.4
+Bucket            Won  Lost  Total  WinRt
+<= 10            3099  3113   6212  49.9%
+<= 25              10    11     21  47.6%
+<= 50             234   338    572  40.9%
+<= 100            905   972   1877  48.2%
+
+=== MQA Score (Marketo) (Account_Score_Marketo__c) ===
+Population: 8682 of 8682 (100.0% populated)
+Range: min=0.0 max=78.0 mean=3.2
+Bucket            Won  Lost  Total  WinRt
+<= 10            3977  4174   8151  48.8%
+<= 25             213   137    350  60.9%
+<= 50              53    57    110  48.2%
+<= 100              5    66     71   7.0%
+

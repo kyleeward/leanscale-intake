@@ -1,0 +1,3 @@
+=== Aspirational vs Actual: Proposed_Tier (label: Proposed Tier 2026) ===
+Tier                        Won  Lost  Total  WinRt         WonVal    AvgACV
+(none)                     4248  4434   8682  48.9% $  87,301,564 $ 20,551

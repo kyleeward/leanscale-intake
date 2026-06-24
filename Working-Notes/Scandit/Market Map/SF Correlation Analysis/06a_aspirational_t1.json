@@ -1,0 +1,28 @@
+{
+  "status": 0,
+  "result": {
+    "records": [
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Proposed_Tier_2023__c": null,
+        "IsWon": false,
+        "expr0": 4434,
+        "expr1": 98594882.25
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Proposed_Tier_2023__c": null,
+        "IsWon": true,
+        "expr0": 4248,
+        "expr1": 87301564.29
+      }
+    ],
+    "totalSize": 2,
+    "done": true
+  },
+  "warnings": []
+}

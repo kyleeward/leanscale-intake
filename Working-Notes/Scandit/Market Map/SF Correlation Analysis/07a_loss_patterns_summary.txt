@@ -1,0 +1,34 @@
+=== Closed Lost Reasons (top 15) ===
+Reason                                         Count      LostValue
+Unknown (go dark)                               1414 $  28,084,512
+Strategy change                                  996 $  20,411,303
+Bad timing                                       416 $  15,159,951
+Replaced/merged with other opportunity           356 $   7,240,529
+Competitor win                                   261 $   7,378,666
+No budget                                        257 $   4,365,098
+Restructure Cleanup                              240 $   5,498,634
+Price too high                                   188 $   2,940,193
+Missing feature                                  156 $   4,286,870
+No authority                                      60 $   1,534,561
+Missing platform                                  55 $   1,592,090
+Legal terms                                       19 $      75,085
+Length of contract term                           11 $      15,391
+Decision to exit from Russia                       5 $      12,000
+
+=== Primary Competitors on Lost Deals (top 15) ===
+Competitor                                     Count      LostValue
+(none)                                          3286 $  47,293,819
+Only Considering Scandit                         256 $   5,477,226
+Competitor is Unknown                            235 $   9,229,268
+Zebra Hardware                                   130 $   6,582,469
+Unknown / Other Software                          83 $   9,370,107
+Unknown / Other Source                            65 $   1,943,372
+Unknown / Other Hardware                          57 $   3,437,510
+Google ML Kit                                     52 $   3,368,457
+Scanbot Software                                  37 $   1,616,735
+Honeywell Hardware                                33 $   1,642,808
+Dynamsoft Software                                32 $   1,134,315
+Native iOS                                        32 $   1,263,512
+ZXing                                             29 $   1,830,828
+CodeCorp Software                                 14 $     307,189
+CodeCorp Hardware                                 13 $     255,826

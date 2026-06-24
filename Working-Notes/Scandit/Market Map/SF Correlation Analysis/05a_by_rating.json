@@ -1,0 +1,46 @@
+{
+  "status": 0,
+  "result": {
+    "records": [
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Rating": null,
+        "IsWon": false,
+        "expr0": 4228,
+        "expr1": 86956652.85
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Rating": null,
+        "IsWon": true,
+        "expr0": 4097,
+        "expr1": 65825958.64
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Rating": "Top",
+        "IsWon": false,
+        "expr0": 206,
+        "expr1": 11638229.41
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Rating": "Top",
+        "IsWon": true,
+        "expr0": 151,
+        "expr1": 21475605.65
+      }
+    ],
+    "totalSize": 4,
+    "done": true
+  },
+  "warnings": []
+}

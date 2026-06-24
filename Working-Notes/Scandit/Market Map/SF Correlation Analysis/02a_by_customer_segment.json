@@ -1,0 +1,110 @@
+{
+  "status": 0,
+  "result": {
+    "records": [
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Customer_Segment__c": null,
+        "IsWon": false,
+        "expr0": 3691,
+        "expr1": 73347309.77,
+        "expr2": 23969.71
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Customer_Segment__c": null,
+        "IsWon": true,
+        "expr0": 3284,
+        "expr1": 38628416.84,
+        "expr2": 11769.78
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Customer_Segment__c": "Customer Tier 1",
+        "IsWon": false,
+        "expr0": 406,
+        "expr1": 17237571.18,
+        "expr2": 51920.4
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Customer_Segment__c": "Customer Tier 1",
+        "IsWon": true,
+        "expr0": 382,
+        "expr1": 22361226.51,
+        "expr2": 58537.24
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Customer_Segment__c": "Customer Tier 2",
+        "IsWon": false,
+        "expr0": 175,
+        "expr1": 5215489.34,
+        "expr2": 37521.51
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Customer_Segment__c": "Customer Tier 2",
+        "IsWon": true,
+        "expr0": 273,
+        "expr1": 7782935.31,
+        "expr2": 28508.92
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Customer_Segment__c": "Customer Tier 3",
+        "IsWon": false,
+        "expr0": 153,
+        "expr1": 2504511.96,
+        "expr2": 19414.82
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Customer_Segment__c": "Customer Tier 3",
+        "IsWon": true,
+        "expr0": 304,
+        "expr1": 7821146.35,
+        "expr2": 25727.46
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Customer_Segment__c": "Other",
+        "IsWon": false,
+        "expr0": 9,
+        "expr1": 290000,
+        "expr2": 36250
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Customer_Segment__c": "Other",
+        "IsWon": true,
+        "expr0": 5,
+        "expr1": 10707839.28,
+        "expr2": 2141567.86
+      }
+    ],
+    "totalSize": 10,
+    "done": true
+  },
+  "warnings": []
+}

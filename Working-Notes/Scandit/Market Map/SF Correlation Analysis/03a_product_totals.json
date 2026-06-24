@@ -1,0 +1,30 @@
+{
+  "status": 0,
+  "result": {
+    "records": [
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "IsWon": false,
+        "bs": 104075,
+        "id": 1375,
+        "sv": 0,
+        "expr0": 4434
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "IsWon": true,
+        "bs": 25984525.72,
+        "id": 4362942.72,
+        "sv": 695198.57,
+        "expr0": 4248
+      }
+    ],
+    "totalSize": 2,
+    "done": true
+  },
+  "warnings": []
+}

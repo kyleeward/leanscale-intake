@@ -1,0 +1,7 @@
+=== By Customer Segment ===
+Segment                     Won  Lost  Total  WinRt       WonVal    AvgACV
+(none)                     3284  3691   6975  47.1% $38,628,417 $ 11,763
+Customer Tier 1             382   406    788  48.5% $22,361,227 $ 58,537
+Customer Tier 3             304   153    457  66.5% $ 7,821,146 $ 25,727
+Customer Tier 2             273   175    448  60.9% $ 7,782,935 $ 28,509
+Other                         5     9     14  35.7% $10,707,839 $2,141,568

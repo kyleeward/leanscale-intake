@@ -1,0 +1,210 @@
+{
+  "status": 0,
+  "result": {
+    "records": [
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": null,
+        "IsWon": false,
+        "expr0": 1102,
+        "expr1": 4161006.2,
+        "expr2": 4407.85
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": null,
+        "IsWon": true,
+        "expr0": 413,
+        "expr1": 1841999.12,
+        "expr2": 4470.87
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "IsWon": false,
+        "expr0": 147,
+        "expr1": 2815611.57,
+        "expr2": 22346.12
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "IsWon": true,
+        "expr0": 213,
+        "expr1": 2594200.75,
+        "expr2": 12179.35
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "IsWon": false,
+        "expr0": 167,
+        "expr1": 1650894.52,
+        "expr2": 11307.5
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "IsWon": true,
+        "expr0": 316,
+        "expr1": 4880339.88,
+        "expr2": 15444.11
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "IsWon": false,
+        "expr0": 446,
+        "expr1": 5898558.24,
+        "expr2": 16384.88
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "IsWon": true,
+        "expr0": 632,
+        "expr1": 6040472.6,
+        "expr2": 9557.71
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "IsWon": false,
+        "expr0": 35,
+        "expr1": 324114.1,
+        "expr2": 11176.35
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "IsWon": true,
+        "expr0": 66,
+        "expr1": 945745.62,
+        "expr2": 14329.48
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "IsWon": false,
+        "expr0": 141,
+        "expr1": 1841231.31,
+        "expr2": 15343.59
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "IsWon": true,
+        "expr0": 227,
+        "expr1": 1523709.38,
+        "expr2": 6712.38
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "IsWon": false,
+        "expr0": 1371,
+        "expr1": 55484122.77,
+        "expr2": 51805.9
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "IsWon": true,
+        "expr0": 1118,
+        "expr1": 40287569.37,
+        "expr2": 36035.39
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "IsWon": false,
+        "expr0": 421,
+        "expr1": 2442368.29,
+        "expr2": 6410.42
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "IsWon": true,
+        "expr0": 817,
+        "expr1": 8568077.47,
+        "expr2": 10500.09
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "IsWon": false,
+        "expr0": 459,
+        "expr1": 15296400.54,
+        "expr2": 41230.19
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "IsWon": true,
+        "expr0": 354,
+        "expr1": 15940647.97,
+        "expr2": 45030.08
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "IsWon": false,
+        "expr0": 145,
+        "expr1": 8680574.7,
+        "expr2": 72338.12
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "IsWon": true,
+        "expr0": 92,
+        "expr1": 4678802.13,
+        "expr2": 50856.54
+      }
+    ],
+    "totalSize": 20,
+    "done": true
+  },
+  "warnings": []
+}

@@ -1,0 +1,110 @@
+{
+  "status": 0,
+  "result": {
+    "records": [
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": null,
+        "expr0": 413,
+        "expr1": 997154.74,
+        "expr2": 105718.89,
+        "expr3": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "expr0": 213,
+        "expr1": 568891.41,
+        "expr2": 2700,
+        "expr3": null
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "expr0": 316,
+        "expr1": 2510547.76,
+        "expr2": 4908.75,
+        "expr3": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "expr0": 632,
+        "expr1": 1518354.63,
+        "expr2": 0,
+        "expr3": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "expr0": 66,
+        "expr1": 224768.38,
+        "expr2": 21615.94,
+        "expr3": null
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "expr0": 227,
+        "expr1": 316184.38,
+        "expr2": 75418.34,
+        "expr3": 29438.43
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "expr0": 1118,
+        "expr1": 11974312.75,
+        "expr2": 442576.24,
+        "expr3": 665760.14
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "expr0": 817,
+        "expr1": 2745077.76,
+        "expr2": 32898.06,
+        "expr3": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "expr0": 354,
+        "expr1": 4454974.11,
+        "expr2": 2619835,
+        "expr3": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "expr0": 92,
+        "expr1": 674259.8,
+        "expr2": 1057271.49,
+        "expr3": 0
+      }
+    ],
+    "totalSize": 10,
+    "done": true
+  },
+  "warnings": []
+}

@@ -1,0 +1,1792 @@
+{
+  "status": 0,
+  "result": {
+    "records": [
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": null,
+        "expr0": 1137,
+        "expr1": 16804838.58
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": null,
+        "expr0": 733,
+        "expr1": 8526976.03
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": null,
+        "expr0": 279,
+        "expr1": 3542342.39
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": null,
+        "expr0": 267,
+        "expr1": 6066976.43
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": null,
+        "expr0": 186,
+        "expr1": 3889204.73
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": null,
+        "expr0": 175,
+        "expr1": 1392229.93
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": null,
+        "expr0": 160,
+        "expr1": 2924606.52
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": null,
+        "expr0": 149,
+        "expr1": 1442165.27
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing feature",
+        "Primary_Competitor__c": null,
+        "expr0": 100,
+        "expr1": 1153961.89
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Competitor is Unknown",
+        "expr0": 73,
+        "expr1": 905696.08
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Only Considering Scandit",
+        "expr0": 71,
+        "expr1": 1109474.5
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Competitor is Unknown",
+        "expr0": 49,
+        "expr1": 1845439.08
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Only Considering Scandit",
+        "expr0": 43,
+        "expr1": 820339.73
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No authority",
+        "Primary_Competitor__c": null,
+        "expr0": 38,
+        "expr1": 956176.12
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing platform",
+        "Primary_Competitor__c": null,
+        "expr0": 37,
+        "expr1": 539593.88
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Zebra Hardware",
+        "expr0": 36,
+        "expr1": 1216183.23
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Only Considering Scandit",
+        "expr0": 36,
+        "expr1": 1457273.11
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "Only Considering Scandit",
+        "expr0": 32,
+        "expr1": 633590.84
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Zebra Hardware",
+        "expr0": 30,
+        "expr1": 1771719.19
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Competitor is Unknown",
+        "expr0": 30,
+        "expr1": 1841444.51
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Unknown / Other Software",
+        "expr0": 26,
+        "expr1": 4868116.8
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Unknown / Other Software",
+        "expr0": 19,
+        "expr1": 1807860.3
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Unknown / Other Source",
+        "expr0": 19,
+        "expr1": 345380.37
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing feature",
+        "Primary_Competitor__c": "Competitor is Unknown",
+        "expr0": 17,
+        "expr1": 1786288.46
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Unknown / Other Source",
+        "expr0": 17,
+        "expr1": 568434.61
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Unknown / Other Hardware",
+        "expr0": 16,
+        "expr1": 1139958.31
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Only Considering Scandit",
+        "expr0": 16,
+        "expr1": 373585.7
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Zebra Hardware",
+        "expr0": 15,
+        "expr1": 1429478.24
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "Competitor is Unknown",
+        "expr0": 14,
+        "expr1": 1696559.12
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Only Considering Scandit",
+        "expr0": 13,
+        "expr1": 223703.96
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing feature",
+        "Primary_Competitor__c": "Only Considering Scandit",
+        "expr0": 13,
+        "expr1": 361386.59
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Competitor is Unknown",
+        "expr0": 13,
+        "expr1": 284504.25
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Competitor is Unknown",
+        "expr0": 13,
+        "expr1": 306131.24
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Google ML Kit",
+        "expr0": 13,
+        "expr1": 1707455.17
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Legal terms",
+        "Primary_Competitor__c": null,
+        "expr0": 12,
+        "expr1": 37355.56
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Dynamsoft Software",
+        "expr0": 11,
+        "expr1": 113359.03
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Zebra Hardware",
+        "expr0": 11,
+        "expr1": 364418.95
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Unknown / Other Software",
+        "expr0": 10,
+        "expr1": 1328901.91
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Only Considering Scandit",
+        "expr0": 10,
+        "expr1": 321257.64
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Google ML Kit",
+        "expr0": 10,
+        "expr1": 608577.95
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Zebra Hardware",
+        "expr0": 10,
+        "expr1": 182495.8
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Competitor is Unknown",
+        "expr0": 9,
+        "expr1": 304181.37
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing feature",
+        "Primary_Competitor__c": "Zebra Hardware",
+        "expr0": 9,
+        "expr1": 262863.37
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Competitor is Unknown",
+        "expr0": 9,
+        "expr1": 95827.77
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Unknown / Other Hardware",
+        "expr0": 9,
+        "expr1": 379095.76
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Length of contract term",
+        "Primary_Competitor__c": null,
+        "expr0": 9,
+        "expr1": 5391.45
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "Zebra Hardware",
+        "expr0": 8,
+        "expr1": 539658.44
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Unknown / Other Software",
+        "expr0": 8,
+        "expr1": 310815.01
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Unknown / Other Hardware",
+        "expr0": 8,
+        "expr1": 515876.97
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Scanbot Software",
+        "expr0": 8,
+        "expr1": 448926.49
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Scanbot Software",
+        "expr0": 8,
+        "expr1": 203157.77
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Unknown / Other Source",
+        "expr0": 8,
+        "expr1": 206302.1
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "ZXing",
+        "expr0": 8,
+        "expr1": 387712.78
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Unknown / Other Hardware",
+        "expr0": 8,
+        "expr1": 352363.73
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Scanbot Software",
+        "expr0": 8,
+        "expr1": 708000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Honeywell Hardware",
+        "expr0": 8,
+        "expr1": 765350.58
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Google ML Kit",
+        "expr0": 7,
+        "expr1": 181331.02
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Native iOS",
+        "expr0": 7,
+        "expr1": 90043.84
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Scanbot Software",
+        "expr0": 7,
+        "expr1": 142258.14
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Unknown / Other Source",
+        "expr0": 7,
+        "expr1": 183290.78
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Google ML Kit",
+        "expr0": 7,
+        "expr1": 333451.69
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Unknown / Other Hardware",
+        "expr0": 7,
+        "expr1": 741375.21
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "ZXing",
+        "expr0": 7,
+        "expr1": 330606.53
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Native iOS",
+        "expr0": 7,
+        "expr1": 383709.58
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Only Considering Scandit",
+        "expr0": 7,
+        "expr1": 77209.99
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing feature",
+        "Primary_Competitor__c": "Unknown / Other Software",
+        "expr0": 6,
+        "expr1": 508975.87
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "CodeCorp Software",
+        "expr0": 5,
+        "expr1": 99871.25
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No authority",
+        "Primary_Competitor__c": "Only Considering Scandit",
+        "expr0": 5,
+        "expr1": 70962.88
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No authority",
+        "Primary_Competitor__c": "Competitor is Unknown",
+        "expr0": 5,
+        "expr1": 114989.12
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing platform",
+        "Primary_Competitor__c": "Only Considering Scandit",
+        "expr0": 5,
+        "expr1": 17271.57
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Honeywell Hardware",
+        "expr0": 5,
+        "expr1": 235000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Honeywell Hardware",
+        "expr0": 5,
+        "expr1": 300643.14
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Google ML Kit",
+        "expr0": 5,
+        "expr1": 103839.45
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "Unknown / Other Software",
+        "expr0": 5,
+        "expr1": 219746.37
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Dynamsoft Software",
+        "expr0": 5,
+        "expr1": 287595.44
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "CodeCorp Hardware",
+        "expr0": 5,
+        "expr1": 88580
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Legal terms",
+        "Primary_Competitor__c": "Only Considering Scandit",
+        "expr0": 5,
+        "expr1": 11169.45
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Dynamsoft Software",
+        "expr0": 5,
+        "expr1": 62292.45
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing feature",
+        "Primary_Competitor__c": "Honeywell Hardware",
+        "expr0": 5,
+        "expr1": 109518.66
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Native iOS",
+        "expr0": 5,
+        "expr1": 142459.81
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Native iOS",
+        "expr0": 4,
+        "expr1": 142816.29
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Native iOS",
+        "expr0": 4,
+        "expr1": 350985.2
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Decision to exit from Russia",
+        "Primary_Competitor__c": null,
+        "expr0": 4,
+        "expr1": 12000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Scanbot Software",
+        "expr0": 4,
+        "expr1": 28738.51
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Unknown / Other Software",
+        "expr0": 4,
+        "expr1": 137885.08
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No authority",
+        "Primary_Competitor__c": "Zebra Hardware",
+        "expr0": 4,
+        "expr1": 134702.8
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Zebra Hardware",
+        "expr0": 4,
+        "expr1": 148975
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Unknown / Other Source",
+        "expr0": 4,
+        "expr1": 20999
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Google ML Kit",
+        "expr0": 4,
+        "expr1": 204536.86
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Unknown / Other Source",
+        "expr0": 4,
+        "expr1": 332843.46
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "ZXing",
+        "expr0": 3,
+        "expr1": 91914.79
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "ZXing.js (Web SDK)",
+        "expr0": 3,
+        "expr1": 99047.82
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing platform",
+        "Primary_Competitor__c": "Honeywell Software",
+        "expr0": 3,
+        "expr1": 563264.94
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Dynamsoft Software",
+        "expr0": 3,
+        "expr1": 5000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "Dynamsoft Software",
+        "expr0": 3,
+        "expr1": 76731.04
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Unknown / Other Software",
+        "expr0": 3,
+        "expr1": 35170.9
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Bluetooth Scanning Accessory",
+        "expr0": 3,
+        "expr1": 31349.27
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Unknown / Other Scanning Accessory",
+        "expr0": 3,
+        "expr1": 350000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "CodeCorp Software",
+        "expr0": 3,
+        "expr1": 13682.69
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "ZXing",
+        "expr0": 3,
+        "expr1": 358379.52
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "CodeCorp Software",
+        "expr0": 3,
+        "expr1": 181875
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "CodeCorp Hardware",
+        "expr0": 3,
+        "expr1": 77546.29
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Unknown / Other Scanning Accessory",
+        "expr0": 3,
+        "expr1": 81500
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing platform",
+        "Primary_Competitor__c": "Unknown / Other Source",
+        "expr0": 3,
+        "expr1": 178665.27
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Cognex Software",
+        "expr0": 3,
+        "expr1": 18371.64
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Honeywell Hardware",
+        "expr0": 3,
+        "expr1": 26356.76
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "ZXing",
+        "expr0": 3,
+        "expr1": 427329.55
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "Unknown / Other Hardware",
+        "expr0": 2,
+        "expr1": 99917.4
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Anyline Software",
+        "expr0": 2,
+        "expr1": 65632.59
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "CodeCorp Hardware",
+        "expr0": 2,
+        "expr1": 28700
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing platform",
+        "Primary_Competitor__c": "Competitor is Unknown",
+        "expr0": 2,
+        "expr1": 48207
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Unknown / Other Source",
+        "expr0": 2,
+        "expr1": 29490.51
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No authority",
+        "Primary_Competitor__c": "Unknown / Other Hardware",
+        "expr0": 2,
+        "expr1": 111000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Bluetooth Scanning Accessory",
+        "expr0": 2,
+        "expr1": 92275
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing feature",
+        "Primary_Competitor__c": "Unknown / Other Hardware",
+        "expr0": 2,
+        "expr1": 50000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Bluetooth Scanning Accessory",
+        "expr0": 2,
+        "expr1": 50870
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "CodeCorp Software",
+        "expr0": 2,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Honeywell Software",
+        "expr0": 2,
+        "expr1": 104433.8
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "Scanbot Software",
+        "expr0": 2,
+        "expr1": 85653.7
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "ZXing.js (Web SDK)",
+        "expr0": 2,
+        "expr1": 13169.09
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "ZXing.js (Web SDK)",
+        "expr0": 2,
+        "expr1": 12000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "ZXing",
+        "expr0": 2,
+        "expr1": 75584.9
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "Google ML Kit",
+        "expr0": 2,
+        "expr1": 100000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Native iOS",
+        "expr0": 2,
+        "expr1": 114752.35
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Google ML Kit",
+        "expr0": 2,
+        "expr1": 112000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Anyline Software",
+        "expr0": 2,
+        "expr1": 32023.91
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Datalogic Hardware",
+        "expr0": 2,
+        "expr1": 10500
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Datalogic Hardware",
+        "expr0": 2,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Honeywell Hardware",
+        "expr0": 2,
+        "expr1": 39121.43
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Anyline Software",
+        "expr0": 2,
+        "expr1": 30185.95
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Dynamsoft Software",
+        "expr0": 2,
+        "expr1": 571019.43
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing platform",
+        "Primary_Competitor__c": "Zebra Hardware",
+        "expr0": 2,
+        "expr1": 121000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Honeywell Software",
+        "expr0": 2,
+        "expr1": 184112.4
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Honeywell Hardware",
+        "expr0": 2,
+        "expr1": 78317.68
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "Native iOS",
+        "expr0": 2,
+        "expr1": 28744.81
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Quagga.js (Web SDK)",
+        "expr0": 2,
+        "expr1": 4193.87
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Decision to exit from Russia",
+        "Primary_Competitor__c": "Cognex Software",
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Honeywell Captuvo Accessory",
+        "expr0": 1,
+        "expr1": 100000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "ZXing",
+        "expr0": 1,
+        "expr1": 8530.6
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Unknown / Other Hardware",
+        "expr0": 1,
+        "expr1": 42584.9
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "ZXing.js (Web SDK)",
+        "expr0": 1,
+        "expr1": 10674.64
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "Honeywell Hardware",
+        "expr0": 1,
+        "expr1": 82000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Cognex Software",
+        "expr0": 1,
+        "expr1": 10646.23
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Dynamsoft Software",
+        "expr0": 1,
+        "expr1": 5323.11
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Quagga.js (Web SDK)",
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Zebra Hardware",
+        "expr0": 1,
+        "expr1": 410973.53
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Ring Scanner Accessory",
+        "expr0": 1,
+        "expr1": 21349.27
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Unknown / Other Scanning Accessory",
+        "expr0": 1,
+        "expr1": 20000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Cognex Software",
+        "expr0": 1,
+        "expr1": 7909.91
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Anyline Software",
+        "expr0": 1,
+        "expr1": 106462.26
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No authority",
+        "Primary_Competitor__c": "Bluetooth Scanning Accessory",
+        "expr0": 1,
+        "expr1": 10000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "Cognex Software",
+        "expr0": 1,
+        "expr1": 50000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Unknown / Other Software",
+        "expr0": 1,
+        "expr1": 151634.62
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Dynamsoft Software",
+        "expr0": 1,
+        "expr1": 6244.66
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "MicroBlink Software",
+        "expr0": 1,
+        "expr1": 80059.78
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Honeywell Hardware",
+        "expr0": 1,
+        "expr1": 1500
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Legal terms",
+        "Primary_Competitor__c": "Unknown / Other Scanning Accessory",
+        "expr0": 1,
+        "expr1": 21349.27
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "AS Reader Accessory",
+        "expr0": 1,
+        "expr1": 179949.66
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Honeywell Software",
+        "expr0": 1,
+        "expr1": 58227.69
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Unknown / Other Scanning Accessory",
+        "expr0": 1,
+        "expr1": 56550
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No authority",
+        "Primary_Competitor__c": "Unknown / Other Source",
+        "expr0": 1,
+        "expr1": 77965.41
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Unknown / Other Hardware",
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Honeywell Software",
+        "expr0": 1,
+        "expr1": 2315
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Length of contract term",
+        "Primary_Competitor__c": "Competitor is Unknown",
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No authority",
+        "Primary_Competitor__c": "Google ML Kit",
+        "expr0": 1,
+        "expr1": 15764.58
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing feature",
+        "Primary_Competitor__c": "Google ML Kit",
+        "expr0": 1,
+        "expr1": 1500
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Digimarc Software",
+        "expr0": 1,
+        "expr1": 105000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "AS Reader Accessory",
+        "expr0": 1,
+        "expr1": 300000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing feature",
+        "Primary_Competitor__c": "Unknown / Other Scanning Accessory",
+        "expr0": 1,
+        "expr1": 4269.85
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Legal terms",
+        "Primary_Competitor__c": "Anyline Software",
+        "expr0": 1,
+        "expr1": 5211
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "CodeCorp Software",
+        "expr0": 1,
+        "expr1": 11760
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing platform",
+        "Primary_Competitor__c": "ZXing",
+        "expr0": 1,
+        "expr1": 112000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Honeywell Software",
+        "expr0": 1,
+        "expr1": 300000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing feature",
+        "Primary_Competitor__c": "Datalogic Hardware",
+        "expr0": 1,
+        "expr1": 9335.26
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "ZXing.js (Web SDK)",
+        "expr0": 1,
+        "expr1": 10000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing platform",
+        "Primary_Competitor__c": "Unknown / Other Hardware",
+        "expr0": 1,
+        "expr1": 5337.32
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "Cognex Software",
+        "expr0": 1,
+        "expr1": 3193.87
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Strategy change",
+        "Primary_Competitor__c": "AS Reader Accessory",
+        "expr0": 1,
+        "expr1": 64928.79
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "Unknown / Other Scanning Accessory",
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No authority",
+        "Primary_Competitor__c": "Unknown / Other Software",
+        "expr0": 1,
+        "expr1": 1000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Anyline Software",
+        "expr0": 1,
+        "expr1": 3501.54
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Linea Pro Infinite Peripherals Accessory",
+        "expr0": 1,
+        "expr1": 100000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Competitor win",
+        "Primary_Competitor__c": "MicroBlink Software",
+        "expr0": 1,
+        "expr1": 11700
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing feature",
+        "Primary_Competitor__c": "ZXing",
+        "expr0": 1,
+        "expr1": 38769.71
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Replaced/merged with other opportunity",
+        "Primary_Competitor__c": "Bluetooth Scanning Accessory",
+        "expr0": 1,
+        "expr1": 60000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Bad timing",
+        "Primary_Competitor__c": "Quagga.js (Web SDK)",
+        "expr0": 1,
+        "expr1": 26686.59
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Bluetooth Scanning Accessory",
+        "expr0": 1,
+        "expr1": 167200
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "CodeCorp Hardware",
+        "expr0": 1,
+        "expr1": 14000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Datalogic Hardware",
+        "expr0": 1,
+        "expr1": 31529.16
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No authority",
+        "Primary_Competitor__c": "Honeywell Hardware",
+        "expr0": 1,
+        "expr1": 5000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Unknown (go dark)",
+        "Primary_Competitor__c": "Datalogic Hardware",
+        "expr0": 1,
+        "expr1": 42584.9
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "Datalogic Hardware",
+        "expr0": 1,
+        "expr1": 26686.59
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Price too high",
+        "Primary_Competitor__c": "Quagga.js (Web SDK)",
+        "expr0": 1,
+        "expr1": 71017.22
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No budget",
+        "Primary_Competitor__c": "CodeCorp Hardware",
+        "expr0": 1,
+        "expr1": 10000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Length of contract term",
+        "Primary_Competitor__c": "Native iOS",
+        "expr0": 1,
+        "expr1": 10000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Missing platform",
+        "Primary_Competitor__c": "Dynamsoft Software",
+        "expr0": 1,
+        "expr1": 6750
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "Restructure Cleanup",
+        "Primary_Competitor__c": "Bluetooth Scanning Accessory",
+        "expr0": 1,
+        "expr1": 20174
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Closed_Lost_Reason__c": "No authority",
+        "Primary_Competitor__c": "CodeCorp Hardware",
+        "expr0": 1,
+        "expr1": 37000
+      }
+    ],
+    "totalSize": 198,
+    "done": true
+  },
+  "warnings": []
+}

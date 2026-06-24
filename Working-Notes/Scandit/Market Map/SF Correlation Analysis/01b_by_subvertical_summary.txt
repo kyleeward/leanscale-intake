@@ -1,0 +1,58 @@
+Vertical               Sub-Vertical                   Won  Lost  Total  WinRt       WonVal    AvgACV
+----------------------------------------------------------------------------------------------------
+(none)                 (none)                         413  1102   1515  27.3% $ 1,841,999 $  4,460
+Technology             Software Development & Desig   456   245    701  65.0% $ 5,146,376 $ 11,286
+Retail                 Grocery                        232   373    605  38.3% $ 8,471,026 $ 36,513
+Technology             Other                          321   146    467  68.7% $ 2,871,307 $  8,945
+Manufacturing          Industrial goods               289   141    430  67.2% $ 1,900,007 $  6,574
+Retail                 Fashion & Accessories          166   239    405  41.0% $ 4,039,017 $ 24,331
+Manufacturing          Consumer goods                 164   149    313  52.4% $ 1,598,498 $  9,747
+Healthcare             Hospitals                      215    97    312  68.9% $ 4,233,785 $ 19,692
+Transport & Logistics  Postal, Parcel & Express (PP    98   193    291  33.7% $ 8,233,231 $ 84,013
+Retail                 Other                          142   139    281  50.5% $ 1,865,608 $ 13,138
+Manufacturing          Pharma & Medical Devices       111    75    186  59.7% $ 2,042,077 $ 18,397
+Retail                 DIY & Home Improvement         106    77    183  57.9% $ 2,426,078 $ 22,888
+Transport & Logistics  3rd party logistics             63    94    157  40.1% $   718,839 $ 11,410
+Retail                 Luxury                          68    64    132  51.5% $ 2,615,130 $ 38,458
+Travel                 Airlines                        41    81    122  33.6% $ 2,788,792 $ 68,019
+Retail                 (none)                          55    59    114  48.2% $   916,765 $ 16,668
+Retail                 Cosmetics                       47    49     96  49.0% $ 1,577,216 $ 33,558
+Transport & Logistics  (none)                          37    56     93  39.8% $   776,045 $ 20,974
+Field Services         Telecommunications              44    45     89  49.4% $   737,647 $ 16,765
+Healthcare             Other                           55    33     88  62.5% $   276,626 $  5,030
+Retail                 Consumer Electronics            33    54     87  37.9% $ 1,136,170 $ 34,429
+Other                  Other                           57    29     86  66.3% $   342,691 $  6,012
+Transport & Logistics  Other                           57    29     86  66.3% $   709,689 $ 12,451
+Retail                 Gift Shops, Sports & Hobby      40    42     82  48.8% $   236,849 $  5,921
+Field Services         Business Services               46    35     81  56.8% $   514,827 $ 11,192
+Transport & Logistics  Freight & Cargo Logistics       50    30     80  62.5% $   387,502 $  7,750
+Field Services         Utilities                       53    24     77  68.8% $   382,762 $  7,222
+Retail                 Furniture & Home Goods          36    41     77  46.8% $   510,671 $ 14,185
+Retail                 Car Parts & Car Dealers         44    29     73  60.3% $   671,491 $ 15,261
+Retail                 Drugstores                      30    42     72  41.7% $   727,025 $ 24,234
+Manufacturing          Automotive                      32    31     63  50.8% $   177,946 $  5,561
+Manufacturing          Other                           25    38     63  39.7% $   202,066 $  8,083
+Other                  Banking & Financial Services    32    30     62  51.6% $   357,242 $ 11,164
+Other                  Government                      38    23     61  62.3% $   310,247 $  8,164
+Field Services         Energy                          41    18     59  69.5% $   438,520 $ 10,696
+Retail                 Fuel & Convenience Stores       19    37     56  33.9% $   522,268 $ 27,488
+Retail                 Mass Merchant                   19    32     51  37.3% $11,498,714 $605,195
+Technology             (none)                          26    24     50  52.0% $   153,083 $  5,888
+Media & Entertainment  Other                           28    21     49  57.1% $   470,948 $ 16,820
+Retail                 Hospitality                     25    23     48  52.1% $   419,102 $ 16,764
+Transport & Logistics  Quick Commerce Delivery         19    29     48  39.6% $ 4,298,447 $226,234
+Other                  Education                       34    11     45  75.6% $    93,623 $  2,754
+Field Services         Other                           25    19     44  56.8% $   508,479 $ 20,339
+Transport & Logistics  Food and Beverage Distributo    26    15     41  63.4% $   674,122 $ 25,928
+Travel                 Rail                            14    26     40  35.0% $   253,055 $ 18,075
+Retail                 Specialty Retailer              19    17     36  52.8% $   551,408 $ 29,021
+Other                  (none)                          17    17     34  50.0% $   107,752 $  6,338
+Retail                 Sporting Goods                  16    17     33  48.5% $ 1,384,708 $ 86,544
+Healthcare             (none)                          18    12     30  60.0% $    82,724 $  4,596
+Other                  Construction & Real Estate      19     8     27  70.4% $   129,249 $  6,803
+Travel                 Boat & Ferry                    11    15     26  42.3% $   115,546 $ 10,504
+Media & Entertainment  Advertisement                   17     8     25  68.0% $    96,897 $  5,700
+Travel                 Other                           16     7     23  69.6% $    91,677 $  5,730
+Other                  Agriculture                     17     5     22  77.3% $   130,649 $  7,685
+
+(filtered to 54 sub-verticals with at least 20 deals)

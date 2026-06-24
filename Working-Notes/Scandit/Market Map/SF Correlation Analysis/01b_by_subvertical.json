@@ -1,0 +1,1946 @@
+{
+  "status": 0,
+  "result": {
+    "records": [
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": null,
+        "Sub_Vertical__c": null,
+        "IsWon": false,
+        "expr0": 1102,
+        "expr1": 4161006.2,
+        "expr2": 4407.85
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": null,
+        "Sub_Vertical__c": null,
+        "IsWon": true,
+        "expr0": 413,
+        "expr1": 1841999.12,
+        "expr2": 4470.87
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": null,
+        "IsWon": false,
+        "expr0": 5,
+        "expr1": 58498.57,
+        "expr2": 14624.64
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": null,
+        "IsWon": true,
+        "expr0": 4,
+        "expr1": 11966.11,
+        "expr2": 2991.53
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": "Business Services",
+        "IsWon": false,
+        "expr0": 35,
+        "expr1": 803180.77,
+        "expr2": 26772.69
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": "Business Services",
+        "IsWon": true,
+        "expr0": 46,
+        "expr1": 514827.46,
+        "expr2": 11191.9
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": "DIY & Home Improvement",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 30000,
+        "expr2": 30000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": "Energy",
+        "IsWon": false,
+        "expr0": 18,
+        "expr1": 191861.74,
+        "expr2": 11991.36
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": "Energy",
+        "IsWon": true,
+        "expr0": 41,
+        "expr1": 438519.58,
+        "expr2": 10695.6
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": "Other",
+        "IsWon": false,
+        "expr0": 19,
+        "expr1": 461141.5,
+        "expr2": 27125.97
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": "Other",
+        "IsWon": true,
+        "expr0": 25,
+        "expr1": 508479.35,
+        "expr2": 20339.17
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": "Telecommunications",
+        "IsWon": false,
+        "expr0": 45,
+        "expr1": 1028551.37,
+        "expr2": 27067.14
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": "Telecommunications",
+        "IsWon": true,
+        "expr0": 44,
+        "expr1": 737646.73,
+        "expr2": 16764.7
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": "Utilities",
+        "IsWon": false,
+        "expr0": 24,
+        "expr1": 242377.62,
+        "expr2": 12118.88
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Field Services",
+        "Sub_Vertical__c": "Utilities",
+        "IsWon": true,
+        "expr0": 53,
+        "expr1": 382761.52,
+        "expr2": 7221.92
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": null,
+        "IsWon": false,
+        "expr0": 12,
+        "expr1": 202778.75,
+        "expr2": 18434.43
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": null,
+        "IsWon": true,
+        "expr0": 18,
+        "expr1": 82724.04,
+        "expr2": 4595.78
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Business Services",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 13965,
+        "expr2": 13965
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Business Services",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 2244.38,
+        "expr2": 2244.38
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Consumer goods",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": null,
+        "expr2": null
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Homecare",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 29501.65,
+        "expr2": 29501.65
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Homecare",
+        "IsWon": true,
+        "expr0": 6,
+        "expr1": 33888.76,
+        "expr2": 5648.13
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Hospitals",
+        "IsWon": false,
+        "expr0": 97,
+        "expr1": 1035659.13,
+        "expr2": 12629.99
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Hospitals",
+        "IsWon": true,
+        "expr0": 215,
+        "expr1": 4233785.04,
+        "expr2": 19692.02
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Industrial goods",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 35000,
+        "expr2": 35000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Labs",
+        "IsWon": false,
+        "expr0": 9,
+        "expr1": 20368.19,
+        "expr2": 2263.13
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Labs",
+        "IsWon": true,
+        "expr0": 10,
+        "expr1": 52106.01,
+        "expr2": 5210.6
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Other",
+        "IsWon": false,
+        "expr0": 33,
+        "expr1": 81147.65,
+        "expr2": 2704.92
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Other",
+        "IsWon": true,
+        "expr0": 55,
+        "expr1": 276625.95,
+        "expr2": 5029.56
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Pharma & Medical Distribution",
+        "IsWon": false,
+        "expr0": 3,
+        "expr1": 35000,
+        "expr2": 17500
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Pharma & Medical Distribution",
+        "IsWon": true,
+        "expr0": 6,
+        "expr1": 166623,
+        "expr2": 27770.5
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Pharmacies",
+        "IsWon": false,
+        "expr0": 9,
+        "expr1": 197474.15,
+        "expr2": 21941.57
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Healthcare",
+        "Sub_Vertical__c": "Pharmacies",
+        "IsWon": true,
+        "expr0": 5,
+        "expr1": 32342.7,
+        "expr2": 6468.54
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": null,
+        "IsWon": false,
+        "expr0": 11,
+        "expr1": 159155,
+        "expr2": 17683.89
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": null,
+        "IsWon": true,
+        "expr0": 8,
+        "expr1": 99362.02,
+        "expr2": 12420.25
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": "Automotive",
+        "IsWon": false,
+        "expr0": 31,
+        "expr1": 747853.96,
+        "expr2": 28763.61
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": "Automotive",
+        "IsWon": true,
+        "expr0": 32,
+        "expr1": 177946.1,
+        "expr2": 5560.82
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": "Consumer goods",
+        "IsWon": false,
+        "expr0": 149,
+        "expr1": 2178828.45,
+        "expr2": 18946.33
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": "Consumer goods",
+        "IsWon": true,
+        "expr0": 164,
+        "expr1": 1598498.09,
+        "expr2": 9746.94
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": "Industrial goods",
+        "IsWon": false,
+        "expr0": 141,
+        "expr1": 1405858.93,
+        "expr2": 12015.89
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": "Industrial goods",
+        "IsWon": true,
+        "expr0": 289,
+        "expr1": 1900007.38,
+        "expr2": 6574.42
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": "Luxury",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 10646.23,
+        "expr2": 10646.23
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": "Luxury",
+        "IsWon": true,
+        "expr0": 3,
+        "expr1": 20516.38,
+        "expr2": 6838.79
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": "Other",
+        "IsWon": false,
+        "expr0": 38,
+        "expr1": 262062.15,
+        "expr2": 8453.62
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": "Other",
+        "IsWon": true,
+        "expr0": 25,
+        "expr1": 202065.67,
+        "expr2": 8082.63
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": "Pharma & Medical Devices",
+        "IsWon": false,
+        "expr0": 75,
+        "expr1": 1134153.54,
+        "expr2": 18592.68
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Manufacturing",
+        "Sub_Vertical__c": "Pharma & Medical Devices",
+        "IsWon": true,
+        "expr0": 111,
+        "expr1": 2042076.97,
+        "expr2": 18397.09
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "Sub_Vertical__c": null,
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 2661.56,
+        "expr2": 2661.56
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "Sub_Vertical__c": "Advertisement",
+        "IsWon": false,
+        "expr0": 8,
+        "expr1": 125278.41,
+        "expr2": 25055.68
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "Sub_Vertical__c": "Advertisement",
+        "IsWon": true,
+        "expr0": 17,
+        "expr1": 96896.58,
+        "expr2": 5699.8
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "Sub_Vertical__c": "Amusement & Theme Parks",
+        "IsWon": false,
+        "expr0": 3,
+        "expr1": 0,
+        "expr2": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "Sub_Vertical__c": "Amusement & Theme Parks",
+        "IsWon": true,
+        "expr0": 3,
+        "expr1": 55371.46,
+        "expr2": 18457.15
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "Sub_Vertical__c": "Gambling",
+        "IsWon": true,
+        "expr0": 3,
+        "expr1": 209759.81,
+        "expr2": 69919.94
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "Sub_Vertical__c": "Other",
+        "IsWon": false,
+        "expr0": 21,
+        "expr1": 188498.37,
+        "expr2": 9920.97
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "Sub_Vertical__c": "Other",
+        "IsWon": true,
+        "expr0": 28,
+        "expr1": 470947.51,
+        "expr2": 16819.55
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "Sub_Vertical__c": "Ticketing & Event Management",
+        "IsWon": false,
+        "expr0": 3,
+        "expr1": 10337.32,
+        "expr2": 5168.66
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Media & Entertainment",
+        "Sub_Vertical__c": "Ticketing & Event Management",
+        "IsWon": true,
+        "expr0": 14,
+        "expr1": 110108.7,
+        "expr2": 7864.91
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": null,
+        "IsWon": false,
+        "expr0": 17,
+        "expr1": 517044.54,
+        "expr2": 43087.05
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": null,
+        "IsWon": true,
+        "expr0": 17,
+        "expr1": 107751.6,
+        "expr2": 6338.33
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Agriculture",
+        "IsWon": false,
+        "expr0": 5,
+        "expr1": 6000,
+        "expr2": 1500
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Agriculture",
+        "IsWon": true,
+        "expr0": 17,
+        "expr1": 130649.25,
+        "expr2": 7685.25
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Banking & Financial Services",
+        "IsWon": false,
+        "expr0": 30,
+        "expr1": 316522.84,
+        "expr2": 12660.91
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Banking & Financial Services",
+        "IsWon": true,
+        "expr0": 32,
+        "expr1": 357242.08,
+        "expr2": 11163.81
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Business Services",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 3000,
+        "expr2": 3000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Construction & Real Estate",
+        "IsWon": false,
+        "expr0": 8,
+        "expr1": 12598.7,
+        "expr2": 2099.78
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Construction & Real Estate",
+        "IsWon": true,
+        "expr0": 19,
+        "expr1": 129248.64,
+        "expr2": 6802.56
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Education",
+        "IsWon": false,
+        "expr0": 11,
+        "expr1": 3575,
+        "expr2": 357.5
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Education",
+        "IsWon": true,
+        "expr0": 34,
+        "expr1": 93623.39,
+        "expr2": 2753.63
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Government",
+        "IsWon": false,
+        "expr0": 23,
+        "expr1": 314102.56,
+        "expr2": 14277.39
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Government",
+        "IsWon": true,
+        "expr0": 38,
+        "expr1": 310247.39,
+        "expr2": 8164.4
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Industrial goods",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 9650,
+        "expr2": 4825
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Legal & Insurance",
+        "IsWon": false,
+        "expr0": 5,
+        "expr1": 95986.28,
+        "expr2": 19197.26
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Legal & Insurance",
+        "IsWon": true,
+        "expr0": 3,
+        "expr1": 5500,
+        "expr2": 1833.33
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Military & Law Enforcement",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 1280,
+        "expr2": 1280
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Military & Law Enforcement",
+        "IsWon": true,
+        "expr0": 5,
+        "expr1": 20297.14,
+        "expr2": 4059.43
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Other",
+        "IsWon": false,
+        "expr0": 29,
+        "expr1": 130578.88,
+        "expr2": 5223.16
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Other",
+        "IsWon": true,
+        "expr0": 57,
+        "expr1": 342690.89,
+        "expr2": 6012.12
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Restaurant & Hotels",
+        "IsWon": false,
+        "expr0": 11,
+        "expr1": 440542.51,
+        "expr2": 48949.17
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Other",
+        "Sub_Vertical__c": "Restaurant & Hotels",
+        "IsWon": true,
+        "expr0": 3,
+        "expr1": 16809,
+        "expr2": 5603
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": null,
+        "IsWon": false,
+        "expr0": 59,
+        "expr1": 1182687.47,
+        "expr2": 30325.32
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": null,
+        "IsWon": true,
+        "expr0": 55,
+        "expr1": 916764.63,
+        "expr2": 16668.45
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "3rd party logistics",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 0,
+        "expr2": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Advertisement",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 69984,
+        "expr2": 69984
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Advertisement",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 0,
+        "expr2": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Agriculture",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 1000,
+        "expr2": 1000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Business Services",
+        "IsWon": false,
+        "expr0": 5,
+        "expr1": 66716.48,
+        "expr2": 13343.3
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Business Services",
+        "IsWon": true,
+        "expr0": 4,
+        "expr1": 33975.95,
+        "expr2": 8493.99
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Car Parts & Car Dealers",
+        "IsWon": false,
+        "expr0": 29,
+        "expr1": 516830.2,
+        "expr2": 18458.22
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Car Parts & Car Dealers",
+        "IsWon": true,
+        "expr0": 44,
+        "expr1": 671491.36,
+        "expr2": 15261.17
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Consumer Electronics",
+        "IsWon": false,
+        "expr0": 54,
+        "expr1": 1849894.98,
+        "expr2": 42043.07
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Consumer Electronics",
+        "IsWon": true,
+        "expr0": 33,
+        "expr1": 1136169.73,
+        "expr2": 34429.39
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Consumer goods",
+        "IsWon": false,
+        "expr0": 2,
+        "expr1": 235000,
+        "expr2": 117500
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Cosmetics",
+        "IsWon": false,
+        "expr0": 49,
+        "expr1": 2085055.08,
+        "expr2": 61325.15
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Cosmetics",
+        "IsWon": true,
+        "expr0": 47,
+        "expr1": 1577216.06,
+        "expr2": 33557.79
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Department Store",
+        "IsWon": false,
+        "expr0": 15,
+        "expr1": 920001,
+        "expr2": 70769.31
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Department Store",
+        "IsWon": true,
+        "expr0": 4,
+        "expr1": 449078,
+        "expr2": 112269.5
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "DIY & Home Improvement",
+        "IsWon": false,
+        "expr0": 77,
+        "expr1": 1933593.87,
+        "expr2": 34528.46
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "DIY & Home Improvement",
+        "IsWon": true,
+        "expr0": 106,
+        "expr1": 2426078.16,
+        "expr2": 22887.53
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Drugstores",
+        "IsWon": false,
+        "expr0": 42,
+        "expr1": 2542195.92,
+        "expr2": 68708
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Drugstores",
+        "IsWon": true,
+        "expr0": 30,
+        "expr1": 727024.98,
+        "expr2": 24234.17
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Fashion & Accessories",
+        "IsWon": false,
+        "expr0": 239,
+        "expr1": 6580481.22,
+        "expr2": 35378.93
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Fashion & Accessories",
+        "IsWon": true,
+        "expr0": 166,
+        "expr1": 4039016.84,
+        "expr2": 24331.43
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Food and Beverage Distributors",
+        "IsWon": true,
+        "expr0": 9,
+        "expr1": 109080.64,
+        "expr2": 12120.07
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Fuel & Convenience Stores",
+        "IsWon": false,
+        "expr0": 37,
+        "expr1": 2381162.65,
+        "expr2": 85041.52
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Fuel & Convenience Stores",
+        "IsWon": true,
+        "expr0": 19,
+        "expr1": 522268.22,
+        "expr2": 27487.8
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Furniture & Home Goods",
+        "IsWon": false,
+        "expr0": 41,
+        "expr1": 1392381.68,
+        "expr2": 40952.4
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Furniture & Home Goods",
+        "IsWon": true,
+        "expr0": 36,
+        "expr1": 510671.24,
+        "expr2": 14185.31
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Gift Shops, Sports & Hobby",
+        "IsWon": false,
+        "expr0": 42,
+        "expr1": 1410972.11,
+        "expr2": 40313.49
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Gift Shops, Sports & Hobby",
+        "IsWon": true,
+        "expr0": 40,
+        "expr1": 236849.22,
+        "expr2": 5921.23
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Grocery",
+        "IsWon": false,
+        "expr0": 373,
+        "expr1": 21483290.1,
+        "expr2": 75645.39
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Grocery",
+        "IsWon": true,
+        "expr0": 232,
+        "expr1": 8471025.98,
+        "expr2": 36513.04
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Hospitality",
+        "IsWon": false,
+        "expr0": 23,
+        "expr1": 875058.66,
+        "expr2": 54691.17
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Hospitality",
+        "IsWon": true,
+        "expr0": 25,
+        "expr1": 419102.33,
+        "expr2": 16764.09
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Luxury",
+        "IsWon": false,
+        "expr0": 64,
+        "expr1": 1325327.44,
+        "expr2": 24096.86
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Luxury",
+        "IsWon": true,
+        "expr0": 68,
+        "expr1": 2615129.84,
+        "expr2": 38457.79
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Mass Merchant",
+        "IsWon": false,
+        "expr0": 32,
+        "expr1": 2345651.97,
+        "expr2": 80884.55
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Mass Merchant",
+        "IsWon": true,
+        "expr0": 19,
+        "expr1": 11498713.9,
+        "expr2": 605195.47
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Other",
+        "IsWon": false,
+        "expr0": 139,
+        "expr1": 4597984.18,
+        "expr2": 42573.93
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Other",
+        "IsWon": true,
+        "expr0": 142,
+        "expr1": 1865607.98,
+        "expr2": 13138.08
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Postal, Parcel & Express (PPE)",
+        "IsWon": false,
+        "expr0": 4,
+        "expr1": 35000,
+        "expr2": 35000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Postal, Parcel & Express (PPE)",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 333.33,
+        "expr2": 333.33
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Quick Commerce Delivery",
+        "IsWon": false,
+        "expr0": 7,
+        "expr1": 336000,
+        "expr2": 48000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Quick Commerce Delivery",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 120000,
+        "expr2": 120000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Software Development & Design",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 5855.42,
+        "expr2": 5855.42
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Specialty Retailer",
+        "IsWon": false,
+        "expr0": 17,
+        "expr1": 545584.9,
+        "expr2": 45465.41
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Specialty Retailer",
+        "IsWon": true,
+        "expr0": 19,
+        "expr1": 551408.02,
+        "expr2": 29021.47
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Sporting Goods",
+        "IsWon": false,
+        "expr0": 17,
+        "expr1": 772268.87,
+        "expr2": 51484.59
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Sporting Goods",
+        "IsWon": true,
+        "expr0": 16,
+        "expr1": 1384707.53,
+        "expr2": 86544.22
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Retail",
+        "Sub_Vertical__c": "Telecommunications",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": null,
+        "expr2": null
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "Sub_Vertical__c": null,
+        "IsWon": false,
+        "expr0": 24,
+        "expr1": 346864.1,
+        "expr2": 19270.23
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "Sub_Vertical__c": null,
+        "IsWon": true,
+        "expr0": 26,
+        "expr1": 153082.62,
+        "expr2": 5887.79
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "Sub_Vertical__c": "Business Services",
+        "IsWon": false,
+        "expr0": 4,
+        "expr1": 24589.31,
+        "expr2": 6147.33
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "Sub_Vertical__c": "Business Services",
+        "IsWon": true,
+        "expr0": 12,
+        "expr1": 383269.27,
+        "expr2": 31939.11
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "Sub_Vertical__c": "Consumer goods",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 2000,
+        "expr2": 2000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "Sub_Vertical__c": "Consumer goods",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 14041.66,
+        "expr2": 7020.83
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "Sub_Vertical__c": "Grocery",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": null,
+        "expr2": null
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "Sub_Vertical__c": "Other",
+        "IsWon": false,
+        "expr0": 146,
+        "expr1": 639097.14,
+        "expr2": 4597.82
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "Sub_Vertical__c": "Other",
+        "IsWon": true,
+        "expr0": 321,
+        "expr1": 2871307.45,
+        "expr2": 8944.88
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "Sub_Vertical__c": "Software Development & Design",
+        "IsWon": false,
+        "expr0": 245,
+        "expr1": 1429817.74,
+        "expr2": 6528.85
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Technology",
+        "Sub_Vertical__c": "Software Development & Design",
+        "IsWon": true,
+        "expr0": 456,
+        "expr1": 5146376.47,
+        "expr2": 11310.72
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": null,
+        "IsWon": false,
+        "expr0": 56,
+        "expr1": 847754.81,
+        "expr2": 18037.34
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": null,
+        "IsWon": true,
+        "expr0": 37,
+        "expr1": 776045.14,
+        "expr2": 20974.19
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "3rd party logistics",
+        "IsWon": false,
+        "expr0": 94,
+        "expr1": 1873714.35,
+        "expr2": 24021.98
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "3rd party logistics",
+        "IsWon": true,
+        "expr0": 63,
+        "expr1": 718838.83,
+        "expr2": 11410.14
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Business Services",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 11790.63,
+        "expr2": 5895.32
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Consumer goods",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": null,
+        "expr2": null
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Food and Beverage Distributors",
+        "IsWon": false,
+        "expr0": 15,
+        "expr1": 303579.32,
+        "expr2": 23352.26
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Food and Beverage Distributors",
+        "IsWon": true,
+        "expr0": 26,
+        "expr1": 674122.03,
+        "expr2": 25927.77
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Freight & Cargo Logistics",
+        "IsWon": false,
+        "expr0": 30,
+        "expr1": 504549.98,
+        "expr2": 20182
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Freight & Cargo Logistics",
+        "IsWon": true,
+        "expr0": 50,
+        "expr1": 387502.17,
+        "expr2": 7750.04
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Other",
+        "IsWon": false,
+        "expr0": 29,
+        "expr1": 455653.34,
+        "expr2": 18226.13
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Other",
+        "IsWon": true,
+        "expr0": 57,
+        "expr1": 709688.66,
+        "expr2": 12450.68
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Pharma & Medical Distribution",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 40000,
+        "expr2": 40000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Pharma & Medical Distribution",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 130983,
+        "expr2": 65491.5
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Pharma and Medical Supply Distributors",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 0,
+        "expr2": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Postal, Parcel & Express (PPE)",
+        "IsWon": false,
+        "expr0": 193,
+        "expr1": 8766345.69,
+        "expr2": 60043.46
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Postal, Parcel & Express (PPE)",
+        "IsWon": true,
+        "expr0": 98,
+        "expr1": 8233230.53,
+        "expr2": 84012.56
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Quick Commerce Delivery",
+        "IsWon": false,
+        "expr0": 29,
+        "expr1": 1772753.05,
+        "expr2": 70910.12
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Quick Commerce Delivery",
+        "IsWon": true,
+        "expr0": 19,
+        "expr1": 4298446.97,
+        "expr2": 226234.05
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Transport & Logistics",
+        "IsWon": false,
+        "expr0": 9,
+        "expr1": 726000,
+        "expr2": 80666.67
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Transport & Logistics",
+        "Sub_Vertical__c": "Warehousing",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 6050,
+        "expr2": 6050
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Airlines",
+        "IsWon": false,
+        "expr0": 81,
+        "expr1": 6301758.44,
+        "expr2": 96950.13
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Airlines",
+        "IsWon": true,
+        "expr0": 41,
+        "expr1": 2788791.6,
+        "expr2": 68019.31
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Airports",
+        "IsWon": false,
+        "expr0": 4,
+        "expr1": 74546.23,
+        "expr2": 18636.56
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Airports",
+        "IsWon": true,
+        "expr0": 3,
+        "expr1": 18820,
+        "expr2": 6273.33
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Boat & Ferry",
+        "IsWon": false,
+        "expr0": 15,
+        "expr1": 474790.91,
+        "expr2": 43162.81
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Boat & Ferry",
+        "IsWon": true,
+        "expr0": 11,
+        "expr1": 115545.73,
+        "expr2": 10504.16
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Bus",
+        "IsWon": false,
+        "expr0": 2,
+        "expr1": 1995.8,
+        "expr2": 997.9
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Bus",
+        "IsWon": true,
+        "expr0": 3,
+        "expr1": 9112.32,
+        "expr2": 3037.44
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Car Rental",
+        "IsWon": false,
+        "expr0": 10,
+        "expr1": 536908.62,
+        "expr2": 53690.86
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Car Rental",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 1390000,
+        "expr2": 695000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Other",
+        "IsWon": false,
+        "expr0": 7,
+        "expr1": 191554.07,
+        "expr2": 31925.68
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Other",
+        "IsWon": true,
+        "expr0": 16,
+        "expr1": 91677.28,
+        "expr2": 5729.83
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Parking",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 11800,
+        "expr2": 5900
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Rail",
+        "IsWon": false,
+        "expr0": 26,
+        "expr1": 1099020.64,
+        "expr2": 49955.48
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "Vertical__c": "Travel",
+        "Sub_Vertical__c": "Rail",
+        "IsWon": true,
+        "expr0": 14,
+        "expr1": 253055.21,
+        "expr2": 18075.37
+      }
+    ],
+    "totalSize": 176,
+    "done": true
+  },
+  "warnings": []
+}

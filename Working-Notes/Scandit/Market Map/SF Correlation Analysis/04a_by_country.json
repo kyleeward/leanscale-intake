@@ -1,0 +1,1675 @@
+{
+  "status": 0,
+  "result": {
+    "records": [
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Algeria",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Argentina",
+        "IsWon": false,
+        "expr0": 7,
+        "expr1": 33200
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Argentina",
+        "IsWon": true,
+        "expr0": 5,
+        "expr1": 39850
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Armenia",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 1172.5
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Armenia",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 1700
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Australia",
+        "IsWon": false,
+        "expr0": 102,
+        "expr1": 2806065.89
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Australia",
+        "IsWon": true,
+        "expr0": 102,
+        "expr1": 1036027.69
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Austria",
+        "IsWon": false,
+        "expr0": 42,
+        "expr1": 486983.87
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Austria",
+        "IsWon": true,
+        "expr0": 40,
+        "expr1": 173968.74
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Azerbaijan",
+        "IsWon": false,
+        "expr0": 7,
+        "expr1": 38023.91
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Azerbaijan",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 5000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Bahamas",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 4250
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Bangladesh",
+        "IsWon": false,
+        "expr0": 2,
+        "expr1": 4500
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Belarus",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": null
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Belgium",
+        "IsWon": false,
+        "expr0": 45,
+        "expr1": 591492.6
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Belgium",
+        "IsWon": true,
+        "expr0": 56,
+        "expr1": 625277.31
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Bermuda",
+        "IsWon": true,
+        "expr0": 4,
+        "expr1": 7480
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Bosnia and Herzegovina",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 1171.08
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Brazil",
+        "IsWon": false,
+        "expr0": 44,
+        "expr1": 986376.75
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Brazil",
+        "IsWon": true,
+        "expr0": 41,
+        "expr1": 986520.17
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Bulgaria",
+        "IsWon": false,
+        "expr0": 5,
+        "expr1": 59308
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Bulgaria",
+        "IsWon": true,
+        "expr0": 7,
+        "expr1": 22897.06
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Cambodia",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 1000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Canada",
+        "IsWon": false,
+        "expr0": 122,
+        "expr1": 3874718
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Canada",
+        "IsWon": true,
+        "expr0": 74,
+        "expr1": 1214402.66
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Cape Verde",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 7452.36
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Chile",
+        "IsWon": false,
+        "expr0": 22,
+        "expr1": 410800
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Chile",
+        "IsWon": true,
+        "expr0": 19,
+        "expr1": 288014.59
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "China",
+        "IsWon": false,
+        "expr0": 12,
+        "expr1": 20840
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "China",
+        "IsWon": true,
+        "expr0": 4,
+        "expr1": 7744.05
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Colombia",
+        "IsWon": false,
+        "expr0": 16,
+        "expr1": 156478
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Colombia",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 6660
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Costa Rica",
+        "IsWon": false,
+        "expr0": 4,
+        "expr1": 5200
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Costa Rica",
+        "IsWon": true,
+        "expr0": 3,
+        "expr1": 17759
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Croatia",
+        "IsWon": false,
+        "expr0": 6,
+        "expr1": 14554.42
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Croatia",
+        "IsWon": true,
+        "expr0": 5,
+        "expr1": 7355.56
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Cyprus",
+        "IsWon": true,
+        "expr0": 3,
+        "expr1": 4687.03
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Czech Republic",
+        "IsWon": false,
+        "expr0": 22,
+        "expr1": 98782.19
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Czech Republic",
+        "IsWon": true,
+        "expr0": 17,
+        "expr1": 406084.98
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Denmark",
+        "IsWon": false,
+        "expr0": 50,
+        "expr1": 585179.25
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Denmark",
+        "IsWon": true,
+        "expr0": 66,
+        "expr1": 670058.37
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Ecuador",
+        "IsWon": false,
+        "expr0": 6,
+        "expr1": 40400
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Ecuador",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 3550
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Egypt",
+        "IsWon": false,
+        "expr0": 6,
+        "expr1": 26970
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "El Salvador",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 10000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "El Salvador",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 6000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Estonia",
+        "IsWon": false,
+        "expr0": 10,
+        "expr1": 22481.03
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Estonia",
+        "IsWon": true,
+        "expr0": 11,
+        "expr1": 331057.19
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Finland",
+        "IsWon": false,
+        "expr0": 10,
+        "expr1": 233324.67
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Finland",
+        "IsWon": true,
+        "expr0": 18,
+        "expr1": 122759.89
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "France",
+        "IsWon": false,
+        "expr0": 280,
+        "expr1": 5877231.76
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "France",
+        "IsWon": true,
+        "expr0": 246,
+        "expr1": 3636856.32
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "French Polynesia",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 6342.17
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Georgia",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": null
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Germany",
+        "IsWon": false,
+        "expr0": 286,
+        "expr1": 5804445.31
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Germany",
+        "IsWon": true,
+        "expr0": 333,
+        "expr1": 4315957.62
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Ghana",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 1814.12
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Greece",
+        "IsWon": false,
+        "expr0": 11,
+        "expr1": 69771.12
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Greece",
+        "IsWon": true,
+        "expr0": 15,
+        "expr1": 209363.7
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Guadeloupe",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 1560
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Guatemala",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 1675
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Guernsey",
+        "IsWon": true,
+        "expr0": 3,
+        "expr1": 9033.47
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Honduras",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Honduras",
+        "IsWon": true,
+        "expr0": 3,
+        "expr1": 6050
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Hong Kong",
+        "IsWon": false,
+        "expr0": 23,
+        "expr1": 205830.2
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Hong Kong",
+        "IsWon": true,
+        "expr0": 26,
+        "expr1": 421187.64
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Hungary",
+        "IsWon": false,
+        "expr0": 10,
+        "expr1": 178706.22
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Hungary",
+        "IsWon": true,
+        "expr0": 7,
+        "expr1": 15701.34
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Iceland",
+        "IsWon": false,
+        "expr0": 3,
+        "expr1": 28908.18
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Iceland",
+        "IsWon": true,
+        "expr0": 5,
+        "expr1": 7172.09
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "India",
+        "IsWon": false,
+        "expr0": 71,
+        "expr1": 1366083
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "India",
+        "IsWon": true,
+        "expr0": 21,
+        "expr1": 316386
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Indonesia",
+        "IsWon": false,
+        "expr0": 10,
+        "expr1": 129800
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Indonesia",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 4178.9
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Ireland",
+        "IsWon": false,
+        "expr0": 17,
+        "expr1": 587057.79
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Ireland",
+        "IsWon": true,
+        "expr0": 25,
+        "expr1": 1124767.65
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Israel",
+        "IsWon": false,
+        "expr0": 18,
+        "expr1": 67359.39
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Israel",
+        "IsWon": true,
+        "expr0": 13,
+        "expr1": 58725.83
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Italy",
+        "IsWon": false,
+        "expr0": 163,
+        "expr1": 2093556.45
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Italy",
+        "IsWon": true,
+        "expr0": 194,
+        "expr1": 3049565.18
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Japan",
+        "IsWon": false,
+        "expr0": 335,
+        "expr1": 10389198.99
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Japan",
+        "IsWon": true,
+        "expr0": 161,
+        "expr1": 5595950.03
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Jordan",
+        "IsWon": false,
+        "expr0": 2,
+        "expr1": 1200
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Kazakhstan",
+        "IsWon": false,
+        "expr0": 4,
+        "expr1": 156917.16
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Kazakhstan",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 5000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Kenya",
+        "IsWon": false,
+        "expr0": 4,
+        "expr1": 109450
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Kenya",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 13950
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Korea, Republic of",
+        "IsWon": false,
+        "expr0": 30,
+        "expr1": 586189
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Korea, Republic of",
+        "IsWon": true,
+        "expr0": 31,
+        "expr1": 306601.97
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Kyrgyzstan",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 8000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Latvia",
+        "IsWon": false,
+        "expr0": 6,
+        "expr1": 82372.91
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Latvia",
+        "IsWon": true,
+        "expr0": 4,
+        "expr1": 83912.89
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Lebanon",
+        "IsWon": false,
+        "expr0": 2,
+        "expr1": 7981
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Lebanon",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 2660
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Lithuania",
+        "IsWon": false,
+        "expr0": 9,
+        "expr1": 66256.59
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Lithuania",
+        "IsWon": true,
+        "expr0": 6,
+        "expr1": 29345.88
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Luxembourg",
+        "IsWon": false,
+        "expr0": 6,
+        "expr1": 132660.33
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Luxembourg",
+        "IsWon": true,
+        "expr0": 5,
+        "expr1": 70791.81
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Malaysia",
+        "IsWon": false,
+        "expr0": 8,
+        "expr1": 25000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Malaysia",
+        "IsWon": true,
+        "expr0": 4,
+        "expr1": 5721.55
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Malta",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 1814.69
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Malta",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 6226.87
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Mauritius",
+        "IsWon": true,
+        "expr0": 3,
+        "expr1": 2600
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Mexico",
+        "IsWon": false,
+        "expr0": 38,
+        "expr1": 560639.99
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Mexico",
+        "IsWon": true,
+        "expr0": 12,
+        "expr1": 120200.9
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Morocco",
+        "IsWon": false,
+        "expr0": 3,
+        "expr1": 50000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Morocco",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 13917.59
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Namibia",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Namibia",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 4998
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Netherlands",
+        "IsWon": false,
+        "expr0": 92,
+        "expr1": 1162588.11
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Netherlands",
+        "IsWon": true,
+        "expr0": 134,
+        "expr1": 1714868.5
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "New Zealand",
+        "IsWon": false,
+        "expr0": 30,
+        "expr1": 855924.67
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "New Zealand",
+        "IsWon": true,
+        "expr0": 33,
+        "expr1": 405957.03
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Nigeria",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Nigeria",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 2499
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Norway",
+        "IsWon": false,
+        "expr0": 23,
+        "expr1": 182245.75
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Norway",
+        "IsWon": true,
+        "expr0": 34,
+        "expr1": 209344.43
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Oman",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 24000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Pakistan",
+        "IsWon": false,
+        "expr0": 2,
+        "expr1": 4900
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Panama",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 25000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Panama",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 3300
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Peru",
+        "IsWon": false,
+        "expr0": 4,
+        "expr1": 28000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Peru",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 32510.77
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Philippines",
+        "IsWon": false,
+        "expr0": 5,
+        "expr1": 337200
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Philippines",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 3666.67
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Poland",
+        "IsWon": false,
+        "expr0": 54,
+        "expr1": 2081148.44
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Poland",
+        "IsWon": true,
+        "expr0": 41,
+        "expr1": 1518744.56
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Portugal",
+        "IsWon": false,
+        "expr0": 48,
+        "expr1": 1338726.42
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Portugal",
+        "IsWon": true,
+        "expr0": 19,
+        "expr1": 307809.85
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Qatar",
+        "IsWon": false,
+        "expr0": 4,
+        "expr1": 31100
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Qatar",
+        "IsWon": true,
+        "expr0": 6,
+        "expr1": 12588
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Romania",
+        "IsWon": false,
+        "expr0": 24,
+        "expr1": 463799.53
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Romania",
+        "IsWon": true,
+        "expr0": 21,
+        "expr1": 317622.99
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Russian Federation",
+        "IsWon": false,
+        "expr0": 5,
+        "expr1": 20000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Rwanda",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Saudi Arabia",
+        "IsWon": false,
+        "expr0": 14,
+        "expr1": 5719381
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Saudi Arabia",
+        "IsWon": true,
+        "expr0": 14,
+        "expr1": 69420
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Senegal",
+        "IsWon": false,
+        "expr0": 2,
+        "expr1": 6000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Serbia",
+        "IsWon": false,
+        "expr0": 5,
+        "expr1": 108558.22
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Serbia",
+        "IsWon": true,
+        "expr0": 4,
+        "expr1": 8695.36
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Seychelles",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 245
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Seychelles",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 2450
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Singapore",
+        "IsWon": false,
+        "expr0": 43,
+        "expr1": 730713.37
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Singapore",
+        "IsWon": true,
+        "expr0": 55,
+        "expr1": 972998.75
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Slovakia",
+        "IsWon": false,
+        "expr0": 5,
+        "expr1": 41870
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Slovakia",
+        "IsWon": true,
+        "expr0": 6,
+        "expr1": 29190.06
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Slovenia",
+        "IsWon": false,
+        "expr0": 5,
+        "expr1": 14360.23
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Slovenia",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 6820
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "South Africa",
+        "IsWon": false,
+        "expr0": 34,
+        "expr1": 378382.36
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "South Africa",
+        "IsWon": true,
+        "expr0": 21,
+        "expr1": 83802.52
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Spain",
+        "IsWon": false,
+        "expr0": 167,
+        "expr1": 4826634.82
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Spain",
+        "IsWon": true,
+        "expr0": 121,
+        "expr1": 1793965.46
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Sri Lanka",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 1400
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Swaziland",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 4875
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Sweden",
+        "IsWon": false,
+        "expr0": 74,
+        "expr1": 862795.13
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Sweden",
+        "IsWon": true,
+        "expr0": 98,
+        "expr1": 1098300.58
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Switzerland",
+        "IsWon": false,
+        "expr0": 150,
+        "expr1": 1603896.81
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Switzerland",
+        "IsWon": true,
+        "expr0": 310,
+        "expr1": 2924706.6
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Taiwan",
+        "IsWon": false,
+        "expr0": 10,
+        "expr1": 17500
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Taiwan",
+        "IsWon": true,
+        "expr0": 6,
+        "expr1": 14891.7
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Thailand",
+        "IsWon": false,
+        "expr0": 14,
+        "expr1": 183791
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Thailand",
+        "IsWon": true,
+        "expr0": 7,
+        "expr1": 18304
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Trinidad and Tobago",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Tunisia",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 1100
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Turkey",
+        "IsWon": false,
+        "expr0": 43,
+        "expr1": 871463.89
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Turkey",
+        "IsWon": true,
+        "expr0": 27,
+        "expr1": 298444.19
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Turks and Caicos Islands",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Uganda",
+        "IsWon": false,
+        "expr0": 1,
+        "expr1": 0
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Ukraine",
+        "IsWon": false,
+        "expr0": 7,
+        "expr1": 264487.65
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Ukraine",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 3736.12
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "United Arab Emirates",
+        "IsWon": false,
+        "expr0": 46,
+        "expr1": 3128506.9
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "United Arab Emirates",
+        "IsWon": true,
+        "expr0": 29,
+        "expr1": 1308230.63
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "United Kingdom",
+        "IsWon": false,
+        "expr0": 320,
+        "expr1": 7217202.9
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "United Kingdom",
+        "IsWon": true,
+        "expr0": 232,
+        "expr1": 3413488.7
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "United States",
+        "IsWon": false,
+        "expr0": 1225,
+        "expr1": 26311943.84
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "United States",
+        "IsWon": true,
+        "expr0": 1351,
+        "expr1": 44812150.91
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Uruguay",
+        "IsWon": false,
+        "expr0": 2,
+        "expr1": 8160
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Uruguay",
+        "IsWon": true,
+        "expr0": 1,
+        "expr1": 1000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Uzbekistan",
+        "IsWon": false,
+        "expr0": 2,
+        "expr1": 1000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Uzbekistan",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 7000
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Venezuela, Bolivarian Republic of",
+        "IsWon": false,
+        "expr0": 3,
+        "expr1": 4750
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Vietnam",
+        "IsWon": false,
+        "expr0": 12,
+        "expr1": 15600
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": "Vietnam",
+        "IsWon": true,
+        "expr0": 2,
+        "expr1": 2500
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": null,
+        "IsWon": false,
+        "expr0": 58,
+        "expr1": 621819
+      },
+      {
+        "attributes": {
+          "type": "AggregateResult"
+        },
+        "BillingCountry": null,
+        "IsWon": true,
+        "expr0": 46,
+        "expr1": 456145.72
+      }
+    ],
+    "totalSize": 185,
+    "done": true
+  },
+  "warnings": []
+}

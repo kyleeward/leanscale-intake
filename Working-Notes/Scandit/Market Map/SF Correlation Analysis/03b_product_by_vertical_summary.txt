@@ -1,0 +1,12 @@
+=== Won product-line revenue by Vertical (USD, SOQL-aggregated) ===
+Vertical                   Wins        Barcode        ID Scan      Shelfview
+(none)                      413 $     997,155 $     105,719 $           0
+Field Services              213 $     568,891 $       2,700 $           0
+Healthcare                  316 $   2,510,548 $       4,909 $           0
+Manufacturing               632 $   1,518,355 $           0 $           0
+Media & Entertainment        66 $     224,768 $      21,616 $           0
+Other                       227 $     316,184 $      75,418 $      29,438
+Retail                     1118 $  11,974,313 $     442,576 $     665,760
+Technology                  817 $   2,745,078 $      32,898 $           0
+Transport & Logistics       354 $   4,454,974 $   2,619,835 $           0
+Travel                       92 $     674,260 $   1,057,271 $           0

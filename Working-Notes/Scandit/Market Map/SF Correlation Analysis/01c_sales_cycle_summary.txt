@@ -1,0 +1,12 @@
+Vertical                   WonN  WonMedDay  WonAvgDay  LostN  LostMedDay  LostAvgDay
+-----------------------------------------------------------------------------------------------
+Retail                     1070       350d       304d   1291        322d        344d
+(none)                      408        49d       135d   1094         55d         89d
+Technology                  783       357d       330d    408        268d        272d
+Manufacturing               601       360d       339d    408        198d        257d
+Transport & Logistics       340       358d       319d    427        312d        354d
+Healthcare                  274       253d       245d    160        248d        274d
+Other                       213       363d       352d    135        268d        304d
+Field Services              204       361d       344d    137        185d        273d
+Travel                       88       343d       314d    133        282d        315d
+Media & Entertainment        64       363d       387d     32        288d        295d

@@ -1,0 +1,20 @@
+Total accounts with Website: 41442
+
+Format issues in raw Website field:
+  www. prefix:         18922 (45.7%)
+  http:// prefix:       2044 (4.9%)
+  https:// prefix:      7599 (18.3%)
+  trailing slash:       7046 (17.0%)
+  path beyond root:     3098 (7.5%)
+
+Duplicates after normalization:
+  Unique domains:      37871
+  Domains with dupes:   2137
+  Extra dup records:    3571
+
+Top 5 most-duplicated domains:
+  unk                                      x197
+  yelp.com                                 x77
+                                           x52
+  en.wikipedia.org                         x42
+  unknown                                  x39

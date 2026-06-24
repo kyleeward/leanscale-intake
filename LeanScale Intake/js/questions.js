@@ -113,6 +113,70 @@ var FORM_SECTIONS = {
           { key: "downstream_projects", label: "Are there other projects waiting on this? (Territory planning, growth model, compensation redesign, etc.)", type: "textarea" },
           { key: "prior_attempts", label: "Have you tried to define or fix your lifecycle stages before? What happened?", type: "textarea", placeholder: "Any past initiatives that didn't stick? What went wrong?" }
         ]
+      },
+      {
+        heading: "Lead Lifecycle Details",
+        description: "Help us understand how leads move through your funnel today so we can design the right stage definitions and handoff points.",
+        fields: [
+          { key: "lead_scoring_details", label: "If you use lead scoring, what does the model look like? What behaviors and attributes are scored, and what threshold triggers MQL?", type: "textarea", placeholder: "e.g., demo request = 50 pts, whitepaper = 10 pts, VP+ title = 20 pts, threshold = 100" },
+          { key: "lead_recycle_process", label: "When Sales decides a lead isn't ready, what happens? Is there a formal process to send it back to Marketing for nurture?", type: "textarea", placeholder: "Describe the process, or note if leads just go dark" },
+          { key: "sal_sla_preference", label: "How quickly should Sales follow up on a qualified lead? What SLA feels right?", type: "select", options: ["", "Within 1 hour", "Within 4 business hours", "Same business day", "Within 24 hours", "No SLA exists today", "Not sure"] },
+          { key: "mql_bypass_sources", label: "Are there lead sources that should skip the normal MQL process and go straight to Sales?", type: "textarea", placeholder: "e.g., inbound demo requests, customer referrals, partner leads, enterprise hand-raisers" },
+          { key: "se_involvement", label: "Do Sales Engineers or Solutions Engineers get involved pre-sale? At what point?", type: "textarea", placeholder: "e.g., SE joins after discovery call, SE runs all POV/POC, SE only for enterprise" }
+        ]
+      },
+      {
+        heading: "Sales Pipeline Details",
+        description: "These questions dig into specific pipeline stages and processes. We've already audited your CRM configuration — this is about how the team actually works.",
+        fields: [
+          { key: "pov_poc_process", label: "Describe your Proof of Value / POC process. What does a successful POV look like? Are there documented success criteria?", type: "textarea", placeholder: "How long does a typical POV take? Who runs it? What determines success vs. failure?" },
+          { key: "verbal_commit_definition", label: "What triggers a 'Verbal Commit' in your process — a verbal yes from the economic buyer, procurement approval, or something else?", type: "textarea", placeholder: "Describe what must be true for a deal to be at this stage" },
+          { key: "closed_won_checklist", label: "What must happen for a deal to be marked Closed Won today? Walk us through the actual process.", type: "textarea", placeholder: "Contract signed? Finance notified? CS notified? ARR confirmed? What actually happens vs. what should happen?" },
+          { key: "stalled_deal_process", label: "What happens to deals that go quiet? Is there a defined process, or do reps manage it individually? How long before a deal is considered stalled?", type: "textarea" },
+          { key: "loss_reason_tracking", label: "When a deal is lost, are reps required to log a reason? Are the current loss reason options useful, or do reps just pick the first one?", type: "textarea", placeholder: "Be honest — we need to know if the data is trustworthy" },
+          { key: "billing_stages_usage", label: "Your pipeline includes post-close billing stages (Closed Booked, Billable, Billed). Who uses these and for what? What would break if we moved them out of the sales pipeline?", type: "textarea", placeholder: "Which team depends on these? Is there a separate billing system, or is this all tracked on the Opportunity?" },
+          { key: "renewal_workflow_today", label: "How are renewals managed today? Is there a defined process, or does it vary? When does the renewal conversation start relative to contract end?", type: "textarea", placeholder: "Who owns it, when does it start, what stages does it go through?" },
+          { key: "expansion_tracking", label: "How are upsell/cross-sell opportunities tracked today — as separate opportunities, informally, or not at all?", type: "select", options: ["", "Separate opportunity with Upsell/Expansion record type", "Same pipeline as new business", "Tracked informally (spreadsheet, Slack, etc.)", "Not tracked", "Other"] },
+          { key: "deal_desk_exists", label: "Is there a Deal Desk or order management function? If so, what's their role in the deal process?", type: "textarea", placeholder: "e.g., approves non-standard pricing, generates quotes, manages POs — or 'we don't have one'" }
+        ]
+      },
+      {
+        heading: "Customer Lifecycle",
+        description: "Your CRM currently has no post-sale lifecycle stages. These questions help us design the customer journey from Closed Won through renewal.",
+        fields: [
+          { key: "ftv_definition", label: "What does 'First Time to Value' look like for your product? When would you say a customer is truly live and getting value?", type: "textarea", placeholder: "e.g., first production scan, first X transactions, specific use case deployed, customer says 'this is working'" },
+          { key: "onboarding_duration", label: "How long does a typical onboarding + implementation take? Does it vary by deal size or use case?", type: "textarea", placeholder: "e.g., 2-4 weeks for SMB, 3-6 months for enterprise, depends on integration complexity" },
+          { key: "sales_to_cs_handoff", label: "Is there a formal handoff from Sales to CS today? What does it include?", type: "select", options: ["", "Yes — structured meeting + documented handoff", "Yes — informal meeting only", "Partial — varies by rep", "No — CS figures it out from CRM", "No CS team exists"] },
+          { key: "sales_to_cs_handoff_detail", label: "If there is a handoff, what information does CS receive? What's missing?", type: "textarea", placeholder: "e.g., meeting with AE, handoff doc, just the CRM record, nothing formal" },
+          { key: "healthscore_method", label: "How is the HealthScore (1-10) currently assigned? Is it manual CSM judgment, formula-based, or tied to product usage data?", type: "select", options: ["", "Manual — CSM sets it based on judgment", "Formula — based on defined inputs", "Product usage data driven", "Mix of manual and automated", "Nobody updates it", "Not sure"] },
+          { key: "churn_risk_signals", label: "What signals tell you a customer is at risk of churning? What do CSMs watch for?", type: "textarea", placeholder: "e.g., usage decline, executive sponsor leaves, support tickets spike, competitor mentioned, renewal pushback" },
+          { key: "customer_pause_tracking", label: "When a customer pauses implementation (reorg, budget freeze, etc.), how is that tracked today?", type: "textarea", placeholder: "e.g., CSM notes, custom field, not tracked, we just wait" },
+          { key: "churn_reasons", label: "When a customer churns, is the reason documented? What are the most common churn reasons you've seen?", type: "textarea", placeholder: "List the top 3-5 reasons customers have left" },
+          { key: "churned_customer_reactivation", label: "Has a churned customer ever come back? If so, how was that handled in the CRM?", type: "textarea", placeholder: "New deal? Status change? Ad hoc workaround? Never happened?" },
+          { key: "renewal_ownership", label: "Who owns the renewal process — CS, a dedicated Renewals team, Sales, or shared?", type: "select", options: ["", "CS owns end-to-end", "Dedicated Renewals team", "Sales owns renewals", "Shared between CS and Sales", "Nobody owns it formally", "Other"] }
+        ]
+      },
+      {
+        heading: "Company Lifecycle & Segmentation",
+        description: "Your Account Type field has 20+ values mixing lifecycle, type, and status. These questions help us untangle it and consolidate segmentation.",
+        fields: [
+          { key: "proposed_tier_2026_status", label: "The 'Proposed Tier 2026' field has 34 values (Strategic, Core, Partner, etc.). What's the status of this initiative? Who owns it? Is it expected to become the official segmentation?", type: "textarea" },
+          { key: "segmentation_alignment", label: "How should account segmentation align with the Market Map / ICP project? Should they use the same tier definitions?", type: "select", options: ["", "Yes — same framework", "No — separate frameworks", "Market Map project isn't happening", "Need to discuss", "Not sure"] },
+          { key: "legacy_account_type_values", label: "Some Account Type values need migration decisions. For each, tell us if it's still meaningful: Licensee, OEM Partner, Pending Customer, Not a Client, Trial", type: "textarea", placeholder: "e.g., Licensee = still used for X customers, Pending Customer = nobody uses this anymore" },
+          { key: "abm_status", label: "Is Account-Based Marketing (ABM) a current motion or a future plan? If current, what triggers account-level targeting?", type: "select", options: ["", "Active ABM program", "Pilot / early stage", "Planned for this year", "Not planned", "Not sure"] },
+          { key: "mqa_usage", label: "Is the MQA Status field (Pre-MQA / MQA / Recycle) actively used? What criteria trigger an account to become MQA?", type: "textarea", placeholder: "e.g., firmographic fit + 2 engaged contacts, or nobody uses this field" },
+          { key: "partner_lifecycle_feedback", label: "The Partner Engagement Status field (26 values) looks well-structured. Is the partner team happy with it, or are there changes they'd like?", type: "textarea", placeholder: "Leave blank if the partner team isn't involved in this project" },
+          { key: "dual_partner_customer", label: "Do you have accounts that are both Partners AND Customers simultaneously? How should that be handled?", type: "select", options: ["", "Yes — common, need both tracked", "Yes — rare edge case", "No — partners and customers are separate", "Not sure"] }
+        ]
+      },
+      {
+        heading: "Constraints & Sensitivities",
+        description: "Honest answers here save us from stepping on landmines.",
+        fields: [
+          { key: "political_sensitivities", label: "Are there any fields, stages, or processes that are politically sensitive — things someone senior championed that we should approach carefully?", type: "textarea", placeholder: "This is confidential — it helps us navigate internal dynamics" },
+          { key: "intentional_weirdness", label: "Is there anything in the CRM that looks broken but is actually intentional? Anything we should know about before recommending changes?", type: "textarea", placeholder: "e.g., 'that field is weird because legal requires it,' 'Finance insisted on those billing stages'" },
+          { key: "hard_deadlines", label: "Are there upcoming events that create hard deadlines? (Board meetings, QBRs, fiscal year transitions, territory realignments)", type: "textarea", placeholder: "Include dates if known" }
+        ]
       }
     ]
   },
